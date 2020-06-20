@@ -48,9 +48,12 @@ h3{
 	position:relative;
 	top:100px;
 	text-align: center;
-	
-
-
+	font-family:arial;
+	font-weight:normal;
+	font-size:18px;
+}
+.h32:hover{
+	font-weight:bold;
 }
 .text4{
 	position:relative;
